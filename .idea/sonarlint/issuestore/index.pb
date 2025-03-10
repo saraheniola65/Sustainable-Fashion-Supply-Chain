@@ -5,3 +5,7 @@ Y
 )contracts/manufacturing-verification.clar,3/d/3d8c14be2e85e81cd513b4dc9148d3367400a98f
 X
 (tests/manufacturing-verification.test.ts,7/4/74fe5b9cccde4a7507d9c9371ef7ec05ae296722
+P
+ contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
+O
+tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
