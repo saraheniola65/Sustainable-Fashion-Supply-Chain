@@ -9,3 +9,7 @@ P
  contracts/material-sourcing.clar,1/5/1514261f7555995c78b00fd74cc22398afe89264
 O
 tests/material-sourcing.test.ts,2/a/2a3f8d67c3857a56232ccc4c85a1c96d44c67ac8
+P
+ contracts/product-lifecycle.clar,0/d/0dcb22881b0df67edd5135f578c1cb22ef44139f
+O
+tests/product-lifecycle.test.ts,e/e/ee7566aced17ac1d2087e27776fea5c38fa444b4
